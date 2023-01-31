@@ -1,0 +1,36 @@
+ol {
+  color: blue;
+}
+h2 {
+  color: rgb(226, 166, 13);
+}
+h1 {
+  color: yellow;
+}
+div {
+  color: fuchsia;
+}
+.link {
+  color: aqua;
+}
+/* div.content {
+  color: brown;
+} */
+.disnelend {
+  color: cyan;
+}
+.park {
+  color: brown;
+}
+div.text {
+  color: darkorange;
+}
+.text-disnelend__content {
+  color: darkorchid;
+}
+.text-zoo {
+  color: darkorange;
+}
+footer {
+  color: firebrick;
+}
