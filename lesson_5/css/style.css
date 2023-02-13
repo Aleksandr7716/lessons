@@ -1,0 +1,52 @@
+body {
+  font-family: "Poppins", sans-serif;
+  color: #6c757d;
+  font-size: 14px;
+  font-weight: 300;
+  background: #e5e5e5;
+}
+[class*="__container"] {
+  max-width: 1270px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.vence {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.vence__container {
+}
+.vence__text-block {
+  max-width: 816px;
+  margin: 0 auto 80px;
+}
+.vence__text-block p {
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+.vence__title {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.6;
+  color: #212529;
+  max-width: 605px;
+  margin-bottom: 40px;
+}
+.vence__image {
+  max-width: 100%;
+  margin-bottom: 80px;
+}
+.images {
+  font-size: 0;
+  margin-bottom: 80px;
+}
+.image {
+  max-width: 100%;
+}
+.image_1 {
+  margin-right: 30px;
+  margin-left: 100px;
+}
+.image_2 {
+}
