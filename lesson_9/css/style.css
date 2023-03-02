@@ -1,0 +1,96 @@
+[class*="__container"] {
+  max-width: 1270px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+header {
+  margin-bottom: 20px;
+  background-color: black;
+}
+.conteiner {
+  max-width: 1270px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+h2 {
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 1.6;
+  color: blueviolet;
+}
+.icons {
+  max-width: 1200px;
+}
+.icons li {
+  display: inline-block;
+}
+main {
+  margin-bottom: 20px;
+}
+
+.design__container {
+  background-color: brown;
+}
+.design__title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.design__list li {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.dotted_1shape {
+  background-image: url(../img/disain/dotted_1shape.svg);
+}
+.dotted_shape {
+  background-image: url(../img/disain/dotted_shape.svg);
+}
+.group {
+  background-image: url(../img/disain/group.svg);
+}
+.oval {
+  background-image: url(../img/disain/oval.svg);
+}
+.oval_2 {
+  background-image: url(../img/disain/oval_2.svg);
+}
+.oval_3 {
+  background-image: url(../img/disain/oval_3.svg);
+}
+.rectangle_1 {
+  background-image: url(../img/disain/rectangle_1.svg);
+}
+.rectangle_2 {
+  background-image: url(../img/disain/rectangle_2.svg);
+}
+.rectangle_3 {
+  background-image: url(../img/disain/rectangle_3.svg);
+}
+.shape {
+  background-image: url(../img/disain/shape.svg);
+}
+footer {
+  margin-bottom: 20px;
+  background-color: rgba(34, 22, 126, 0.8);
+}
+.content {
+}
+.content__container {
+}
+.contant__title {
+  text-align: center;
+  color: black;
+}
+.contant__list {
+}
+.img {
+  max-width: 800px;
+  max-height: 400px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+}
